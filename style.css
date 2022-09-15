@@ -260,6 +260,10 @@ body {
     color: rgb(96, 96, 96);
     margin-top: 0;
 }
+.video-stats span {
+    color: red;
+    font-weight: bold;
+}
 .ham,
 .youtube,
 .search-icon,
