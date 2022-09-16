@@ -265,7 +265,7 @@ body {
 .bottom-bar-link img {
     width: 35px;
     color: #fff;
-    padding: 6px 32px;
+    padding: 6px 22px;
     
 }
 .bottom-bar-link:hover {
@@ -369,7 +369,7 @@ body {
         opacity: 1;
     }
     .video-preview .time {
-        margin-left: 300px;
+        margin-left: 250px;
     }
 
 }
